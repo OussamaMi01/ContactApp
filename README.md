@@ -1,5 +1,5 @@
 
-```markdown
+
 # ContactApp
 
 **ContactApp** is a simple and intuitive console-based application designed to manage a contact list. The app allows users to add, view, edit, and delete contacts, providing a user-friendly command-line interface to handle these tasks efficiently.
