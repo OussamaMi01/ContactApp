@@ -15,6 +15,9 @@
 ## Requirements
 
 - **C#**: This application is built using C#. You will need a compatible runtime to run the app.
+- **.NET SDK**: This application requires the .NET SDK to build and run. You can download it from the official .NET website: [Download .NET](https://dotnet.microsoft.com/download/dotnet).
+- **C# Compiler**: The C# compiler is part of the .NET SDK.
+- **Git**: To clone the repository, Git must be installed. You can get it from [Git Downloads](https://git-scm.com/downloads).
 
 ## Getting Started
 
